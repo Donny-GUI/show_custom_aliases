@@ -1,6 +1,6 @@
 #[author]      : donald guiles
 #[date]        : sept, 27 2022
-#[description] : shows you all the custom aliases, linux only
+#[description] : ment to be a cli, has options add[done], show[done], list[done], edit[done], update, doctor, delete, help [done]
 #[language]    : python3
 #[dependencies]: rich
 
