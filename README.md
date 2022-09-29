@@ -24,5 +24,5 @@ ali add <alias> '<command string>'
 ```bash
 git clone https://github.com/Donny-GUI/show_custom_aliases.git
 cd show_custom_aliases
-python3 aliases.py
+python3 ali.py
 ```
