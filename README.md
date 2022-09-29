@@ -1,4 +1,7 @@
 # Ali - custom aliases manager
+
+![alt text](https://github.com/Donny-GUI/show_custom_aliases/blob/main/help_ss.png?raw=true)
+
 ![alt text](https://github.com/Donny-GUI/show_custom_aliases/blob/main/knowna.png?raw=true)
 ## Description
 
